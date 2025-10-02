@@ -21,5 +21,12 @@ you can add a script to your package.json
 ```
 npm i
 ```
-
 and start coding
+
+додано файл arifmetics.js - арифметичні операції над змінними
+
+додано файл logical.js -  логічні операції над змінними (операції порівняння і логічні оператори)
+
+додан файл decision-tree.js -  конструкцію if та if-else if-else з використанням операцій порівняння і логічних операторів
+
+додано  файл switch.js з  конструкціями switch
