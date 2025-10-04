@@ -1,2 +1,29 @@
-node_modules/
+# OS
 .DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.pyc
+target/
+build/
+.gradle/
+
+# Logs & outputs
+*.log
+dist/
+out/
+coverage/
+
+# Env & secrets
+.env
+*.key
+*.pem
