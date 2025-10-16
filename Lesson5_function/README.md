@@ -1,4 +1,8 @@
-# Lesson 5 Functions. Modules
+# Lesson 5 Functions
+
+add finctions
+add arrow finctions
+add getter-setters
 
 in order to work with this project you have to install packages
 ```
