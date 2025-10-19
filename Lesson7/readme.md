@@ -1,0 +1,1 @@
+# Basic type script project
