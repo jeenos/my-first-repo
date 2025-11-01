@@ -1,0 +1,29 @@
+{
+  "include": [
+    "**/*"
+  ],
+  "exclude": [
+    "eslint.config.mjs",
+    "./build/**/*",
+    "./node_modules/**/*"
+  ],
+  "compilerOptions": {
+    "baseUrl": "./",
+    "target": "ES6",
+    "lib": ["es6", "DOM"],
+    "module": "commonjs",
+    "rootDir": ".",
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "outDir": "build",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "typeRoots": [
+      "node_modules/@types"
+    ]
+  }
+}
